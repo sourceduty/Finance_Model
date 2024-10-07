@@ -1,4 +1,4 @@
-![Finance Model](https://github.com/user-attachments/assets/e73899a0-f5d9-43f8-987b-2210caf5a595)
+![Finance Model](https://github.com/user-attachments/assets/b7986c1e-c345-4d81-b30f-76d7ea9b4c02)
 
 > Financial model architecture development.
 
